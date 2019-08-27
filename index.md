@@ -1,23 +1,15 @@
 ## Welcome to GitHub Pages
 
 2019年8月27日10:11:35
-a little change
+2019年8月27日10:33:56
+远程直接 git pull看看，测试连接
 
-
-You can use the [editor on GitHub](https://github.com/GruStack/GruStack.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
 
 [百度]( https://www.baidu.com)
 
 [测试]( https://github.com/GruStack/GruStack.github.io)
-
-- cof
-- cf
-- test git push
-- 
 
 ### Markdown
 
