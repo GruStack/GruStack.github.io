@@ -32,8 +32,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](./222.jpg)
-
-```
+[Image](https://github.com/GruStack/GruStack.github.io/blob/branch001/222.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
